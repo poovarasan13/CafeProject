@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital@0;1&display=swap');
+
+
+* {
+    font-family: "Urbanist", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+#navbar{
+  background-color: orange;
+}
+
+
+.span-text{
+  color: #ffa939;
+}
+
+
+.btn-design{
+  background-color: orange;
+  font-weight: 400;
+}
+
+.btn-design:hover{
+  background-color: black;
+  color: white;
+}
+
+
+.quotes{
+  background-color: whitesmoke;
+}
+
+.footer-links-color{
+   color: #ffa939;
+}
+.footer-links-color:hover{
+   color: black;
+}
+
+.card-image{
+  width: 200px;
+  height: 200px;
+}
